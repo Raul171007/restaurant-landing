@@ -4,7 +4,7 @@ Landing page moderna y totalmente responsive para un restaurante italiano, desar
 
 ## Demo en vivo
 
-https://restaurant-landing-ashen.vercel.app/
+[Demo](https://restaurant-landing-ashen.vercel.app/)
 
 ## Características
 
@@ -37,4 +37,4 @@ Este proyecto fue desarrollado como pieza de portfolio para demostrar habilidade
 
 ## Autor
 
-**Raul171007** — [GitHub](https://github.com/Raul171007) · [Fiverr](https://www.fiverr.com/webcrafter)
+**Raul171007** — [GitHub](https://github.com/Raul171007) · [Fiverr](https://es.fiverr.com/markestins)
